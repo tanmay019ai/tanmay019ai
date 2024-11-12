@@ -1,3 +1,4 @@
+![logo](https://github.com/tanmay019ai/tanmay019ai/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Tanmay Srivastav</h1>
 <h3 align="center">BTech CSE First Year Student GU</h3>
 

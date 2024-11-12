@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay019ai" alt="tanmay019ai" /></a> </p>
 
+- 👀 I’m interested in learning Generative AI
+
+- 🌱  I’m currently learning dsa and exploring other languages
+
 - 💬 Ask me about **Anything you want**
 
 - 📫 How to reach me **tanmaysr019@gmail.com**
@@ -16,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanmay-srivastav-56009b32b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-srivastav-56009b32b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thepurish6750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thepurish6750" height="30" width="40" /></a>
+<a href="=www.youtube.com/@thepurish6750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thepurish6750" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmay019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmay019" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanmayh16u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmayh16u" height="30" width="40" /></a>
 </p>

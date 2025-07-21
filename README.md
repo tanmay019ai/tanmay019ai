@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tanmaysr019@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1csRBns2SRVv9P2NLGusRd-tzHnLWzh6y/view?usp=drive_link">Click here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZIKw8rLwADiunb1qceQOgYIztNvhBGrw/view?usp=sharing">Click here</a>
 
 - ⚡ Fun fact **I Think I am Good at Coding**
 

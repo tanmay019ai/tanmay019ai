@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay019ai" alt="tanmay019ai" /></a> </p>
 
+
+
 <ul>
   <li>🔭 I’m passionate about <strong>Generative AI and Web Development</strong></li>
   <li>🌱 Currently learning <strong>DSA</strong>, <strong>React</strong>, and exploring new technologies</li>

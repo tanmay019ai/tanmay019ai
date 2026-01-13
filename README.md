@@ -14,7 +14,7 @@
   <li>💬 Ask me anything about tech or life—I’m always open to connect!</li>
   <li>📫 Reach me at: <strong>tanmaysr019@gmail.com</strong></li>
   <li>📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/19qd36oOxbCd7bVXuIRl-6QPUSuVE0WdV/view?usp=sharing" target="_blank">Click here</a></li>
-  <li>🌐 <strong>Portfolio:</strong> <a href="https://devtanmay.vercel.app/" target="_blank">devtanmay.vercel.app</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://vue-creative-portfolio.vercel.app/" target="_blank">devtanmay.vercel.app</a></li>
   <li>⚡ Fun fact: <em>I love solving problems and building cool stuff with code.</em></li>
 </ul>
 
